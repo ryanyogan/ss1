@@ -78,7 +78,7 @@ require (
 	github.com/pquerna/cachecontrol v0.0.0-20180517163645-1555304b9b35 // indirect
 	github.com/pquerna/otp v1.1.0 // indirect
 	github.com/ryanuber/go-glob v1.0.0 // indirect
-	github.com/ryanyogan/shippy-service-vessel v0.0.0-20200228213510-c767effa9e10
+	github.com/ryanyogan/shippy-service-vessel v0.1.0
 	github.com/samuel/go-zookeeper v0.0.0-20180130194729-c4fab1ac1bec // indirect
 	github.com/shirou/gopsutil v2.18.12+incompatible // indirect
 	github.com/shirou/w32 v0.0.0-20160930032740-bb4de0191aa4 // indirect
