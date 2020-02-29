@@ -1,6 +1,6 @@
 module github.com/ryanyogan/shippy-service-consignment
 
-go 1.13
+go 1.14
 
 require (
 	github.com/DataDog/datadog-go v0.0.0-20190323183505-07c7c350327b // indirect
